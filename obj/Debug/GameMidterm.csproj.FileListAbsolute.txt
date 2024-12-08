@@ -1,0 +1,7 @@
+D:\Downloads\KerimAhmedNourEldienSoleman_MidtermProject_12_8_2024\GameMidterm\bin\Debug\GameMidterm.exe.config
+D:\Downloads\KerimAhmedNourEldienSoleman_MidtermProject_12_8_2024\GameMidterm\bin\Debug\GameMidterm.exe
+D:\Downloads\KerimAhmedNourEldienSoleman_MidtermProject_12_8_2024\GameMidterm\bin\Debug\GameMidterm.pdb
+D:\Downloads\KerimAhmedNourEldienSoleman_MidtermProject_12_8_2024\GameMidterm\obj\Debug\GameMidterm.csproj.AssemblyReference.cache
+D:\Downloads\KerimAhmedNourEldienSoleman_MidtermProject_12_8_2024\GameMidterm\obj\Debug\GameMidterm.csproj.CoreCompileInputs.cache
+D:\Downloads\KerimAhmedNourEldienSoleman_MidtermProject_12_8_2024\GameMidterm\obj\Debug\GameMidterm.exe
+D:\Downloads\KerimAhmedNourEldienSoleman_MidtermProject_12_8_2024\GameMidterm\obj\Debug\GameMidterm.pdb
